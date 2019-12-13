@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">
+        Akademik Unsri
+    </string>
+
+    <string-array name="autentikasi">
+        <item>Kenapa saya tidak bisa login?</item>
+        <item>Pastikan username dan password anda benar</item>
+    </string-array>
+    <string-array name="autentikasi2">
+        <item>Saya lupa password, terus bagaimana?</item>
+        <item>Harap menghubungi admin.</item>
+    </string-array>
+    <string name="telp1">07117072729</string>
+    <string name="telp2">0711379249</string>
+    <string name="telp3">0711581700</string>
+    <string name="email">ilkom@unsri.ac.id</string>
+    <string name="nama">Pihak Universitas Sriwijaya</string>
+
+
+
+</resources>
